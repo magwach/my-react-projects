@@ -1,5 +1,3 @@
-**My React Projects**
-
 Welcome to My React Projects, a collection of React-based applications and components showcasing various features and functionalities.
 
 **Overview**

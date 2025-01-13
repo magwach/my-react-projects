@@ -71,7 +71,7 @@ export default function ImageSlider({ url, limit = 5, page = 1 }) {
                         return (
                             <button
                                 key={index}
-                                className={currentSlide === index ? "current-indicator" : "current-image hide-current-indicator "}
+                                className={currentSlide === index ? "current-indicator" : "inactive-indicator"}
                                 onClick={() => setCurrentSlide(index)}
                             ></button>
                         )

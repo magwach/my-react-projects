@@ -1,4 +1,4 @@
-:root{
+[data-theme='light'] {
   --background: #fff;
   --text-primary: #000;
   --button-bg: #000;
@@ -20,7 +20,7 @@
     height: 100vh;  
     background-color: var(--background);
     color: var(--text-primary);
-    transition: all 0.5s;             
+    transition: 0.5s;             
   }
 
 .container button{

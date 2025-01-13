@@ -16,6 +16,8 @@
   
   .arrow {
     position: absolute;
+    bottom: 0px;
+    cursor: pointer;
     width: 2rem;
     height: 2rem;
     color: #fff;
@@ -37,12 +39,9 @@
   }
   
   .current-indicator {
-    background-color: #ffffff;
     height: 15px;
     width: 15px;
     border-radius: 50%;
-    border: none;
-    outline: none;
     margin: 0 0.2rem;
     cursor: pointer;
   }

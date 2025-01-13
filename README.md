@@ -10,7 +10,7 @@ This repository contains a variety of projects built using React. Each project d
 
     my-react-projects/
     ├── src/
-    │   ├── components/    # Contains reusable components for the projects
+    │   ├── components/    # Folder with individual project implementations
     │   ├── App.js         # Main entry point for the application
     │   ├── index.js       # Renders the root component to the DOM
     │   ├── styles.css     # Global styling for the application

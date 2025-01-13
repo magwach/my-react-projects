@@ -1,0 +1,30 @@
+.container{
+    width: 100vw;
+    height: auto;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.product{
+    padding: 2px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+p {
+    font-size: 10px;
+}
+
+img{
+    width: 100%;
+}

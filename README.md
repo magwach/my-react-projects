@@ -117,6 +117,6 @@ _Push to the branch:_
     
 _Open a Pull Request._
 
-_License_
+**License**
 
 This project is licensed under the MIT License.
